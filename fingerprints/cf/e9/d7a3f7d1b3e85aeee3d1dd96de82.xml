@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-01 01:40:22.820 UTC</timestamp>
+  <md5sum>cfe9d7a3f7d1b3e85aeee3d1dd96de82</md5sum>
+  <fileName>Credential id=newnode name=newsnoofy/****** (newnode)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670054014721</timestamp>
+      <nodeName>newagent</nodeName>
+      <timestamp0>1670052994724</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

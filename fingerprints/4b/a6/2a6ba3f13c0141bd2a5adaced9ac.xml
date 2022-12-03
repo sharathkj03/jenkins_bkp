@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-01 01:40:22.814 UTC</timestamp>
+  <md5sum>4ba62a6ba3f13c0141bd2a5adaced9ac</md5sum>
+  <fileName>Credential id=newdevops name=newdevops/****** (newdevops)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670054014726</timestamp>
+      <nodeName>newdevops</nodeName>
+      <timestamp0>1670052994716</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
